@@ -1,5 +1,10 @@
 # Advice generator app
 
+## Deployed Link
+https://ritahc.github.io/Advice-Generator-/
+
+## Wireframes
+
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 
